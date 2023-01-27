@@ -82,8 +82,8 @@
 .scroller-WSmht3, /*  dm list */
 .privateChannels-oVe7HL, /* top of dm list */
 .panels-3wFtMD, /* user panel with mute button */
-.container-1NXEtd, /* channel list */
 .membersWrap-3NUR2t, /* members list */
+.theme-dark .container-1NXEtd, /* channel list */
 .searchResultsWrap-5RVOkx, /* search results */
 .searchHeader-1r_ZSh, /* search results header */
 .channelName-3w2Y3c, /* search result channel name */ 
@@ -104,7 +104,8 @@
 .member-48YF_l, /* members list members */
 .sidebar-1tnWFu, /* channel list back */
 .gradientBottom-uB_-4E, /* voice channel top gradient */
-.gradientTop-1UBZHm /* voice channel bottom gradient */ {
+.gradientTop-1UBZHm, /* voice channel bottom gradient */ 
+.theme-dark .container-YkUktl /* user panel */ {
 	background: none;
 }
 .expandedFolderIconWrapper-3RwQpD svg /* expanded folder icon */ {
