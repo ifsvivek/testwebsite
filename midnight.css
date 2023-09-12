@@ -1,12 +1,12 @@
 :root {
 
 	--spacing: 12px;
-	/* radius of round corners */
+
 	--roundness: 16px;
 
 	/* color of links */
 	--accent-1: hsl(190, 70%, 60%);
-	/* color of unread dividers and some indicators */
+
 	--accent-2: hsl(190, 70%, 50%);
 	/* color of accented buttons */
 	--accent-3: hsl(190, 70%, 40%);
